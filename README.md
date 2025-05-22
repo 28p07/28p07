@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm Puneet
 
-I am a B.Tech(CSE) final year student at IET Lucknow. I am passionate about Data Science and Artificial Intelligence. Currently I am looking forwand to learn and improve my skills in DS and AI.
+I am a B.Tech(CSE) final year student at IET Lucknow. I am passionate about Data Science and Artificial Intelligence. Currently I am looking forward to learn and improve my skills in DS and AI.
 
 <!--
 **28p07/28p07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
